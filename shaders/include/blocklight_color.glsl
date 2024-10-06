@@ -29,12 +29,12 @@ const vec3[] blocklight_color = vec3[](
 	// Medium orange
 	vec3(1.00, 0.11, 0.00) * 4.0,
 	// Bright orange
-	vec3(1.00, 0.11, 0.00) * 12.0,
+	vec3(1.00, 0.30, 0.1) * 12.0,
 	// Yellow
 	vec3(1.00, 0.45, 0.00) * 2.0,
-	// Soul lights
+	// light blue
 	vec3(0.25, 0.75, 1.00) * 3.0,
-	// Nether portal
+	// nether portal
 	vec3(0.5, 0.0, 1.00) * 8.0,
 	// Verdant froglight
 	vec3(0.75, 1.0, 0.30) * 4.0,
@@ -42,6 +42,18 @@ const vec3[] blocklight_color = vec3[](
 	vec3(0.75, 0.30, 1.00) * 4.0,
 	// Sea pickle
 	vec3(0.75, 1.00, 0.50) * 1.0,
+	//green
+	vec3(0.25, 1.00, 0.75) * 2.0,
+	//dark blue
+	vec3(0.25, 0.25, 1.00) * 2.0,
+	// dim purple
+	vec3(0.25, 0.0, 1.00) * 1.0,
+	// medium purple
+	vec3(0.5, 0.0, 1.00) * 4.0,
+	// bright purple
+	vec3(0.75, 0.15, 1.00) * 6.0,
+	// end rod
+	vec3(0.5, 0.0, 1.00) * 8.0,
 	// Buffer
 	vec3(0.0)
 );

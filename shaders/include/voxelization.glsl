@@ -1,5 +1,4 @@
-#if !defined INCLUDE_VOXELIZATION
-#define INCLUDE_VOXELIZATION
+
 
 const ivec3 voxel_volume_size = ivec3(128);
 
